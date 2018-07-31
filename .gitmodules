@@ -1,0 +1,3 @@
+[submodule "thirdparty/hump"]
+	path = thirdparty/hump
+	url = git@github.com:vrld/hump.git
